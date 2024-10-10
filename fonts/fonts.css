@@ -9,7 +9,7 @@
 }
 @font-face {
     src: local("EB Garamond");
-    url(../fonts/ebgaramondregular.woff2) format(.woff2),
+    url(./fonts/ebgaramondregular.woff2) format(.woff2),
     url(../fonts/ebgaramonregular.woff) format(.woff),
     url(../fonts/ebgaramonregular.ttf) format(.ttf);
   font-family: "EB Garamond";
