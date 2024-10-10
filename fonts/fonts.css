@@ -9,7 +9,7 @@
 }
 @font-face {
     src: local("EB Garamond");
-    url(./fonts/ebgaramondregular.woff2) format(.woff2),
+    url(../fonts/ebgaramondregular.woff2) format(.woff2),
     url(../fonts/ebgaramonregular.woff) format(.woff),
     url(../fonts/ebgaramonregular.ttf) format(.ttf);
   font-family: "EB Garamond";
@@ -17,8 +17,8 @@
   font-display: swap;
 }
 @font-face {
-  src: local("Inter");
-  url(../fonts/interregular.woff2) format(.woff2),
+    src: local("Inter");
+    url(../fonts/interregular.woff2) format(.woff2),
     url(../fonts/interregular.woff) format(.woff),
     url(../fonts/interregular.ttf) format(.ttf);
   font-family: "Inter";
@@ -26,8 +26,8 @@
   font-display: swap;
 }
 @font-face {
-  src: local("Inter");
-  url(../fonts/interbold.woff2) format(.woff2),
+    src: local("Inter");
+    url(../fonts/interbold.woff2) format(.woff2),
     url(../fonts/interbold.woff) format(.woff),
     url(../fonts/interbold.ttf) format(.ttf);
   font-family: "Inter";
